@@ -1,4 +1,4 @@
-package Unidade_02.tabuleiro;
+package Unidade_02.Praticas.tabuleiro;
 
 public class Main {
     public static void main(String[] args) {

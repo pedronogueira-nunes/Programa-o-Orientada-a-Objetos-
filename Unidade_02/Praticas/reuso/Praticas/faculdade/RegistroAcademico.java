@@ -1,4 +1,4 @@
-package Unidade_02.reuso.faculdade;
+package Unidade_02.Praticas.reuso.Praticas.faculdade;
 
 public class RegistroAcademico {
     private String nomeAluno;

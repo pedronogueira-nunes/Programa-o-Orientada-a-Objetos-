@@ -1,4 +1,4 @@
-package Unidade_02.contabancaria;
+package Unidade_02.Praticas.contabancaria;
 
 import java.util.Scanner;
 

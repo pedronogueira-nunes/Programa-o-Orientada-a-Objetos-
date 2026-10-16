@@ -1,4 +1,4 @@
-package Unidade_02.tabuleiro;
+package Unidade_02.Praticas.tabuleiro;
 
 public class JogoDeDamas {
     private static final int linhas = 8;

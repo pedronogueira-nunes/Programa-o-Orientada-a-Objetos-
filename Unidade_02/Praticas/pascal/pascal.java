@@ -1,4 +1,4 @@
-package Unidade_02.pascal;
+package Unidade_02.Praticas.pascal;
 
 import java.util.Scanner;;
 

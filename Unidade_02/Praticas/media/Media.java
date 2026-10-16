@@ -1,4 +1,4 @@
-package Unidade_02.media;
+package Unidade_02.Praticas.media;
 
 public class Media {
     public static void main(String[] args) {

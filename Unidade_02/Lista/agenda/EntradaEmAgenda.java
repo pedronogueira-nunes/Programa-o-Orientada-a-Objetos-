@@ -13,6 +13,11 @@ public class EntradaEmAgenda {
         this.assunto = assunto;
     }
 
+	@Override
+	public String toString() {
+		return "EntradaEmAgenda [dia=" + dia + ", mes=" + mes + ", ano=" + ano + ", assunto=" + assunto + "]";
+	}
+
     /* 
     public int verificaDia(int dia, int mes) {
         int diaValido = 0;
