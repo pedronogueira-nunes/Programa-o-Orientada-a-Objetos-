@@ -3,7 +3,8 @@ public class Triangulo {
     private float l1;
     private float l2;
     private float l3;
-    private String desc;
+    @SuppressWarnings("unused")
+	private String desc;
 
     public void inicializaTriangulo(float lado1, float lado2, float lado3, String descricao) {
         l1 = lado1;

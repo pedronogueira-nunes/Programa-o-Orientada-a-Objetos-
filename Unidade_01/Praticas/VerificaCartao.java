@@ -1,8 +1,8 @@
 import java.time.LocalDate;
 import java.util.Scanner;
-import java.time.LocalDate;
 public class VerificaCartao {
-    public static void main(String[] args){
+    @SuppressWarnings("unused")
+	public static void main(String[] args){
         String nome;
         String numero;
         String codigo;

@@ -3,7 +3,8 @@ package Lista;
 import java.util.Scanner;
 
 public class CDU {
-    public static void main(String[] args){
+    @SuppressWarnings({ "unused", "resource" })
+	public static void main(String[] args){
         int c, d, u, r;
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite um número no formato CDU: ");

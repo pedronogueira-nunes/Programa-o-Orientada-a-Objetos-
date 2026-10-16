@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Media {
-    @SuppressWarnings("unused")
+    @SuppressWarnings({ "unused", "resource" })
     public static void main(String[] args){
         double d1, d2, d3;
         Scanner entrada = new Scanner(System.in);
