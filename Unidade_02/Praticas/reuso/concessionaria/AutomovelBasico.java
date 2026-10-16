@@ -1,4 +1,4 @@
-package Unidade_02.Praticas.reuso.Praticas.concessionaria;
+package Unidade_02.Praticas.reuso.concessionaria;
 
 public class AutomovelBasico extends Automovel {
     private boolean airbag;

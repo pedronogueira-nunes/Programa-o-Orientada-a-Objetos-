@@ -1,4 +1,4 @@
-package Unidade_02.Praticas.reuso.Praticas.empresa;
+package Unidade_02.Praticas.reuso.empresa;
 
 public class Main {
     public static void main(String[] args) {

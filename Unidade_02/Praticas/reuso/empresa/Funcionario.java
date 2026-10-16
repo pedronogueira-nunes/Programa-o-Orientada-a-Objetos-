@@ -1,4 +1,4 @@
-package Unidade_02.Praticas.reuso.Praticas.empresa;
+package Unidade_02.Praticas.reuso.empresa;
 
 public class Funcionario extends Pessoa {
     private float salario;

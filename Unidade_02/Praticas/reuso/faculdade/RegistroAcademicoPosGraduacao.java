@@ -1,4 +1,4 @@
-package Unidade_02.Praticas.reuso.Praticas.faculdade;
+package Unidade_02.Praticas.reuso.faculdade;
 
 public class RegistroAcademicoPosGraduacao {
     private RegistroAcademico reg;
